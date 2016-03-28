@@ -15,11 +15,10 @@ https://www.instagram.com/developer/endpoints/locations/
 
 # Running the program
 
-**If you want to see the result in the terminal, you need to use this command on windows terminal to set the encoding to UTF-8:**
+If you want to see the result in the terminal, you need to use this command on windows terminal to set the encoding to UTF-8:
 
 chcp 65001
-
-
+\n
 Run it from command line with the following command:
 
 py instagram_streaming.py TRACK_TERM
