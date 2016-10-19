@@ -1,18 +1,22 @@
 # 205InstagramStreaming
+CST 205 - project 02
 
 -----------
 
 ## Description 
 
-This project was made for CST 205: Multimedia Design and Programming, a class offered by the Computer Science Department of California State University, Monterey Bay.
-This is the first realease (project 02), the final project can be found on this [repository](https://github.com/JonOikawa/205GlobalEvents)
+This project was made for [CST 205: Multimedia Design and Programming](https://csumb.edu/course/cst/205), a class offered by the Computer Science Department of [California State University, Monterey Bay](https://csumb.edu/).
+This is the first release (project 02), the final project can be found on this [repository](https://github.com/JonOikawa/205GlobalEvents).
+On this project, you can 
 
-The Team
--[Dario Molina] (https://www.linkedin.com/in/dario-molina?authType=NAME_SEARCH&authToken=sgHB&locale=pt_BR&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444010483%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1476842226114%2Ctas%3Adario%20mo) - Sentiment analysis, location detection, initial FaceBook work, second part of Twitter work
--[Jon Oikawa] (https://github.com/JonOikawa) - Initial Twitter work, integration of Twitter/Instagram, UI/UX, hosting, translating of Python to JavaScript
--[Igor Racca] (https://www.linkedin.com/in/igor-racca-87467a10a?trk=nav_responsive_tab_profile) - Sentiment analysis, location detection, all of Instagram work
+## The Team
+1. [Dario Molina] (https://www.linkedin.com/in/dario-molina?authType=NAME_SEARCH&authToken=sgHB&locale=pt_BR&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444010483%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1476842226114%2Ctas%3Adario%20mo) - Sentiment analysis, location detection, initial FaceBook work, second part of Twitter work
+2. [Igor Racca] (https://www.linkedin.com/in/igor-racca-87467a10a?trk=nav_responsive_tab_profile) - Sentiment analysis, location detection, all of Instagram work
+3. [Jon Oikawa] (https://github.com/JonOikawa) - Initial Twitter work, integration of Twitter/Instagram, UI/UX, hosting, translating of Python to JavaScript
 
 -----------
+
+## About the API
 
 **Instagram API**
 
