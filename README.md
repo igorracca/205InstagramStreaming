@@ -37,10 +37,7 @@ https://www.instagram.com/developer/endpoints/locations/
 
 First make sure that you have installed: 
 
-1.  [Node.js] (https://nodejs.org/en/download/) <br> 
-2.  [Express.js] (https://expressjs.com/) <br> Assuming you've already installed Node.js, type: `npm install mongoose`
-3.  [MongoDB] (https://www.mongodb.com/download-center#community) <br> 
-4.  [Mongoose] (https://www.npmjs.com/package/mongoose) <br> Assuming you've already installed Node.js, type: `npm install mongoose` 
+1.  [Python] (https://www.python.org/downloads/) <br> 
 
 ## Running the program
 
