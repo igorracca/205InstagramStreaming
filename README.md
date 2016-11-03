@@ -37,7 +37,7 @@ https://www.instagram.com/developer/endpoints/locations/
 
 First make sure that you have installed: 
 
-1.  [Python]3 (https://www.python.org/downloads/) <br> (It does not work on Python 2)
+1.  [Python3](https://www.python.org/downloads/) <br> (It does not work on Python 2)
 
 ## Running the program
 
